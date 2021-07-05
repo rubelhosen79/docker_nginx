@@ -9,4 +9,5 @@ Docker provides tooling  and a platform to manage the lifecycle of your containe
   2. The containers becomes the unit for distributing & testing your application.
   
 # What can I use docker for?
-  
+  ## Fast, Consistent delivery for your application:
+      
